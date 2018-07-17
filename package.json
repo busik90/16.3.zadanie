@@ -1,0 +1,22 @@
+{
+  "name": "16.3.Pierwsza_konfiguracja_Webpacka",
+  "version": "1.0.0",
+  "description": "Pierwszy kontakt z Webpack",
+  "scripts": {
+    "start": "webpack"
+  },
+  "keywords": [
+    "Webpack"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.16.1",
+    "webpack-cli": "^3.0.8"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pawelbus/16.3.zadanie.git"
+  }
+}
